@@ -1,0 +1,10 @@
+dist/
+bin/
+obj/
+.vs/
+*.exe
+*.zip
+*.log
+selector.xml
+startup-error.txt
+
